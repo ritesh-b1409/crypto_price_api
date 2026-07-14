@@ -49,4 +49,4 @@ gem "faraday-retry", "~> 2.2"
 group :development do
   gem "whenever", require: false
 end
-gem "cgi", "0.3.6"
+gem "cgi", "0.5.2"
