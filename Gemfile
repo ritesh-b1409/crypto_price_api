@@ -43,7 +43,7 @@ group :development, :test do
   gem "factory_bot_rails", "~> 6.4"
 end
 
-gem "faraday", "~> 2.9"
+gem "faraday", "~> 2.14"
 gem "faraday-retry", "~> 2.2"
 
 group :development do
